@@ -2,6 +2,11 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Description>A small lib to help generate random data for testing</Description>
+    <Authors>Niklas Lööw</Authors>
+    <Company>Better code</Company>
+    <Product>Better RandomDataGenerator</Product>
   </PropertyGroup>
 
 </Project>
